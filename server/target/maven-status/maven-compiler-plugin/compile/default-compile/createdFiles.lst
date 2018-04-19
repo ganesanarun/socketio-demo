@@ -1,0 +1,8 @@
+com/corundumstudio/socketio/demo/Sender.class
+com/corundumstudio/socketio/demo/ISender.class
+com/corundumstudio/socketio/demo/ChatObject.class
+com/corundumstudio/socketio/demo/Listener.class
+com/corundumstudio/socketio/demo/EventProcessor.class
+com/corundumstudio/socketio/demo/ErrorNotificationHandler.class
+com/corundumstudio/socketio/demo/EventProcessorFactory.class
+com/corundumstudio/socketio/demo/ChatLauncher.class

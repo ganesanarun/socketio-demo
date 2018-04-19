@@ -21,26 +21,3 @@ Demo for [Netty-socketio](https://github.com/mrniko/netty-socketio) project.
 # Demo scenarios
 
 By default you will run a chat which communcate with server via json objects.
-There are several demo scenarios available:
-
- `Class` - `Web client page`
-
- `com.corundumstudio.socketio.demo.ChatLauncher` - `/client/index.html`
-
- `com.corundumstudio.socketio.demo.EventChatLauncher` - `/client/event-index.html`
-
- `com.corundumstudio.socketio.demo.SslChatLauncher` - `/client/ssl-event-index.html`
-
- `com.corundumstudio.socketio.demo.NamespaceChatLauncher` - `/client/namespace-index.html`
-
- `com.corundumstudio.socketio.demo.AckChatLauncher` - `/client/ack-index.html`
-
- `com.corundumstudio.socketio.demo.BinaryEventLauncher` - `/client/binary-event-index.html`
-
-
-You can select appropriate server launcher by command with `main.class` parameter:
-
- `mvn exec:java -Dmain.class=com.corundumstudio.socketio.demo.SslChatLauncher`
-
-
-   
